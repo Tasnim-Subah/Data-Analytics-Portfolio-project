@@ -1,5 +1,5 @@
 # Portfolio-project
-# Followings are my projects in Tableau,Powerbi:
+# Followings are my project in Tableau,Powerbi:
 
  # 💠Tableau
 -see on Tableau Public[https://public.tableau.com/views/Book1_17644425682820/Dashboard1?:Language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
